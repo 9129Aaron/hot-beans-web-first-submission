@@ -1,0 +1,27 @@
+.content{
+    display: flex;
+    column-gap: 10vh;
+    justify-content: center;
+    
+}
+.flex{
+    background-color: rgba(255, 255, 255, 0.425);
+    color: rgb(0, 0, 0);
+    border: black solid;
+    width: 20vw;
+    height: fit-content;
+}
+.top{
+
+
+}
+.team{
+    height: 40vh;
+    width: 100%;
+
+
+}
+.text{
+    
+
+}

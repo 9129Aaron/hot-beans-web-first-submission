@@ -1,0 +1,46 @@
+.content{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    column-gap: 0vw;
+    color: black;
+    
+
+    
+}
+.content > div{
+    border: black solid;
+    height: 75vh;
+    width: 33.3333333vw;
+    
+
+}
+.left{
+    display: flex;
+    flex-direction: column;
+
+    row-gap: 10vh;
+    
+    
+}
+.left > div{
+    border: black solid;
+    height: 25vh;
+    background-color: rgba(255, 255, 255, 0.658);
+    font-size: 2vh;
+    
+    
+}
+.right{
+    display: flex;
+    flex-direction: column;
+    row-gap: 10vh;
+ 
+}
+.right > div{
+    border: black solid;
+    height: 25vh;
+    background-color: rgba(255, 255, 255, 0.658);
+    font-size: 2vh;
+    
+}

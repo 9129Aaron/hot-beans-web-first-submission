@@ -1,0 +1,34 @@
+.content{
+    border: black 0.5vh solid;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: rgba(216, 216, 216, 0.295);
+    color: rgb(255, 255, 255);
+
+   
+    width: 99vw;
+    height: max-content;
+    height: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(255, 255, 255);
+    font-family: Consolas, monaco, monospace;
+}
+.content-head{
+
+    border: rgb(0, 0, 0) 0.25vh solid;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    align-items: flex-start;
+    
+    
+    
+}
+.text{
+    
+    align-items: flex-end;
+    
+    
+}
